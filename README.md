@@ -4,7 +4,7 @@ Welcome to the Indian Movies Dashboard GitHub repository! This repository contai
 
 ## Preview
 
-![Indian Movies Dashboard Preview](preview.png)
+![Indian Movies Dashboard Preview](Screenshot%20(142).png)
 
 ## Key Features
 
@@ -20,9 +20,14 @@ Welcome to the Indian Movies Dashboard GitHub repository! This repository contai
 
 ## How to Use
 
-1. Download the Power BI file (`Indian_Movies_Dashboard.pbix`) from the repository.
+1. Download the Power BI file (`Indian Moview.pbix`) from the repository.
 2. Open the file using Power BI Desktop.
 3. Explore the dashboard and interact with the visuals to analyze Indian movies data.
+   
+## Explore the Dashboard
+
+Explore the dashboard live on NovyPro: [Indian Movies Dashboard](https://www.novypro.com/project/indian-movies-dashboard)
+
 
 ## Contact
 
